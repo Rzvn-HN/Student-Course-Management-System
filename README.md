@@ -1,7 +1,8 @@
 # Student-Course-Management-System
+\\
 ## This project is from my Data Structure (DS) course at Sharif University of Technology.
-
-
+\\
+\\
 ## Project Overview
 This project manages three types of educational data:
 
